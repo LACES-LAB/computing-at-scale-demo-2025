@@ -1,13 +1,13 @@
 # Assignment 0
-Course: _Computing at Scale_
-Date: _1/16/2025_
-Name: **Fuad Hasan**
----
+>Course: _Computing at Scale_ \
+>Date: _1/16/2025_\
+>Name: **Fuad Hasan**
+
 
 ## Building Instructions
-1. Open a linux terminal
+1. Open a Linux terminal
 2. Clone the repository
-3. Change directory to the repository root and then `cd assignment0`
+3. Change the directory to the repository root and then `cd assignment0`
 4. Load necessary compilers and tools: `cmake`, `make`, `gcc`, `g++`
 5. Run `cmake -S . -B build`
 6. Go to the build directory: `cd build`
