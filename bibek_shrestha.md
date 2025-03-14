@@ -29,4 +29,4 @@ I am intereted in scientific computing especially in the field of Computational 
 
 *Project Progress Report:*
 
-*Project Final Report:*
+*Project Final Report:* https://github.com/Bibek-ko-git/Projects/blob/main/Computation%40Scale/Mid_term_report.pdf
