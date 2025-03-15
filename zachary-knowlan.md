@@ -19,5 +19,5 @@
 ## Project
 - *Project Repository:* https://github.com/zacharyknowlan/computing_at_scale_git
 - *Project Proposal:* In class git repo. https://github.com/zacharyknowlan/computing_at_scale_git
-- *Project Progress Report:*
+- *Project Progress Report:* Also in class git repo on ProjectMidtermUpdate branch. https://github.com/zacharyknowlan/computing_at_scale_git/tree/ProjectMidtermUpdate
 - *Project Final Report:*
