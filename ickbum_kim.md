@@ -25,6 +25,6 @@ My research interests include:
 
 *Project Proposal: * https://github.com/ickbumk/cas_project/blob/main/README.md 
 
-*Project Progress Report:* tbd
+*Project Progress Report:* https://github.com/ickbumk/cas_project/blob/main/mid_term_report.md 
 
 *Project Final Report: * tbd
