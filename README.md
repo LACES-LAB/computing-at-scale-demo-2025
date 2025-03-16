@@ -14,7 +14,7 @@
 - [Fuad Hasan](./fuad-hasan.md)
 - [Ickbum Kim](./ickbum_kim.md)
 - [Jay Gaiardelli](./jay-gaiardelli.md)
-- [Kairvi Lodhiya](./kairvi-lodhiya.md)
+- [Kairvi Lodhiya](./Kairvi_Lodhiya.md)
 - [Mikel Gica](./mikiel-gica.md)
 - [Scott Blender](./scott-blender.md)
 - [Zachary Knowlan](./zachary-knowlan.md)
