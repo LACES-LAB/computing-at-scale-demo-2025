@@ -10,7 +10,7 @@
 
 ## Students:
 - [Abhiyan Paudel](./abhiyan-paudel.md)
-- [Bibek Shreshtha](./bibek_shestha.md)
+- [Bibek Shreshtha](./bibek_shrestha.md)
 - [Fuad Hasan](./fuad-hasan.md)
 - [Ickbum Kim](./ickbum_kim.md)
 - [Jay Gaiardelli](./jay-gaiardelli.md)
