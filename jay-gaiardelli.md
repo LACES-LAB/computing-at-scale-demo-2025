@@ -13,9 +13,11 @@ My Master's Project is to implement coarse mesh finite difference acceleration i
 
 ## Homework Submissions (pull requests):
 1. https://github.com/gaiarj/computing_at_scale/pull/1
+2. https://github.com/gaiarj/computing_at_scale/pull/2
+
 
 ## Project
-*Project Repository:https://github.com/gaiarj/scarabee\
-*Project Proposal: https://github.com/gaiarj/computing_at_scale/blob/assignment0/project/project_proposal.md\
-*Project Progress Report:https://docs.google.com/document/d/1Bvp6SNauVDmr3xY8eqsgd-wlBAwnmHVJAMB4jTbaQ1E/edit?usp=sharing\
-*Project Final Report:*
+*Project Repository:https://github.com/gaiarj/scarabee/tree/feature/new_cmfd  
+*Project Proposal: https://github.com/gaiarj/computing_at_scale/blob/assignment0/project/project_proposal.md  
+*Project Progress Report:https://docs.google.com/document/d/1Bvp6SNauVDmr3xY8eqsgd-wlBAwnmHVJAMB4jTbaQ1E/edit?usp=sharing  
+*Project Final Report: On GitHub in final-report
