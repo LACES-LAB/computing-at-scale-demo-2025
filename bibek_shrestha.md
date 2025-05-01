@@ -23,10 +23,10 @@ I am intereted in scientific computing especially in the field of Computational 
 
 ## Project 
 
-*Project Repository:*
+*Project Repository:* https://github.com/Bibek-ko-git/Projects.git
 
 *Project Proposal:* https://github.com/Bibek-ko-git/Projects/blob/main/Computation%40Scale/Computation%40Scale_Project_proposal.pdf
 
-*Project Progress Report:*
+*Project Progress Report:* https://github.com/Bibek-ko-git/Projects/blob/main/Computation%40Scale/Mid_term_report.pdf
 
-*Project Final Report:* https://github.com/Bibek-ko-git/Projects/blob/main/Computation%40Scale/Mid_term_report.pdf
+*Project Final Report:* https://github.com/Bibek-ko-git/Projects/blob/main/Computation%40Scale/project_report.pdf
