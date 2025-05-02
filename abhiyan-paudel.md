@@ -17,4 +17,4 @@ My research interests include high performance computing, applied mathematics an
 - *Project Repository:*[project repo](https://github.com/abhiyanpaudel/CAS_Final_Project/tree/main)
 - *Project Proposal:*[project proposal](https://github.com/abhiyanpaudel/computing-at-scale/blob/course_project/project/project_proposal.pdf)
 - *Project Progress Report:*[project progress report](https://github.com/abhiyanpaudel/computing-at-scale/blob/main/project/project_progress_report.pdf)
-- *Project Final Report:*[project final report](https://github.com/abhiyanpaudel/CAS_Final_Project/blob/main/final_project_report.pdf)
+- *Project Final Report:*[project final report](https://github.com/abhiyanpaudel/CAS_Final_Project/blob/main/computing_at_scale_final_project.pdf)
